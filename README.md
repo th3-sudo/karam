@@ -15,7 +15,7 @@ n
 
 * 🔺- وراهه👇
 
-* cd DEVTSHAKE
+* cd karam
 
 * 🔺- وراهه👇
 
